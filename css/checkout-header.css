@@ -1,0 +1,37 @@
+.checkout-header{
+    position:fixed;
+    height:60px;
+    
+    padding-left:30px;
+    padding-right:30px;
+    top:0;
+    left:0;
+    right:0;
+    display:flex;
+    justify-content: center;
+}
+.header-content{
+    width:100%;
+    display:flex;
+    align-items: center;
+}
+.Checkout-header-left-section{
+    width:150px;
+}
+.amazon-logo{
+    width:100px;
+    margin-top: 10px;
+}
+.Checkout-header-middle-section{
+    font-size: 20px;
+    margin-right:60px;
+    width:1000px;
+    display:flex;
+    justify-content: center;
+    font-weight: bold;
+    text-align:center;
+    flex:1;
+}
+.Checkout-header-right-section{
+    width:auto;
+}
